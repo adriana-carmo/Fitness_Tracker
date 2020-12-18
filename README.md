@@ -9,6 +9,7 @@
 
 ### Description 
   Creating a workout tracker application, where will be to keep in  Mongo database with a Mongoose schema and handle routes with Express.
+
 ### <a name="userstory"></a>User Story
  As a user, I want to be able to view create and track daily workouts. I want to be able to log multiple exercises in a workout on a given day. I should also be able to track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, I should be able to track my distance traveled.
 
@@ -33,6 +34,9 @@ https://fitness-tracker-heroku.herokuapp.com/?id=5fdacae34ff7380017ff2c79
 `Workout Dashboard displaying last weeks summary.` 
 ![Dashboard Page](/img/dashboard_heroku.png)
 
+`Cluster in MongoDB`
+![MongDB](/img/MongoDB.png)
+
 ### <a name="deploy"></a>Run in Localhost
 
 `Home page`
@@ -41,7 +45,7 @@ https://fitness-tracker-heroku.herokuapp.com/?id=5fdacae34ff7380017ff2c79
 `Workout Dashboard displaying last weeks summary.`
 ![Dashboard Page](/img/dashboard_localhost.png)
 
-##  Question 
+###  Question 
   For more questions about Team Profile Generator you can go to my Github page at the follow link: 
 
   - [GitHub Profile](https://github.com/adriana-carmo)
